@@ -1,1 +1,1 @@
-# Interactive-Student-Registry
+# Interactive Student Registry
